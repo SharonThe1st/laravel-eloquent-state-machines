@@ -1,11 +1,11 @@
 {
-    "name": "asantibanez/laravel-eloquent-state-machines",
+    "name": "SharonThe1st/laravel-eloquent-state-machines",
     "description": "State machines for your Laravel Eloquent models",
     "keywords": [
-        "asantibanez",
+        "SharonThe1st",
         "laravel-eloquent-state-machines"
     ],
-    "homepage": "https://github.com/asantibanez/laravel-eloquent-state-machines",
+    "homepage": "https://github.com/SharonThe1st/laravel-eloquent-state-machiness",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Asantibanez\\LaravelEloquentStateMachines\\": "src"
+            "SharonThe1st\\LaravelEloquentStateMachines\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Asantibanez\\LaravelEloquentStateMachines\\Tests\\": "tests"
+            "SharonThe1st\\LaravelEloquentStateMachines\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -45,7 +45,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Asantibanez\\LaravelEloquentStateMachines\\LaravelEloquentStateMachinesServiceProvider"
+                "SharonThe1st\\LaravelEloquentStateMachines\\LaravelEloquentStateMachinesServiceProvider"
             ]
         }
     }
