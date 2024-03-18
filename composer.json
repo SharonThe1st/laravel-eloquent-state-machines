@@ -1,8 +1,8 @@
 {
-    "name": "SharonThe1st/laravel-eloquent-state-machines",
+    "name": "sharonthe1st/laravel-eloquent-state-machines",
     "description": "State machines for your Laravel Eloquent models",
     "keywords": [
-        "SharonThe1st",
+        "sharonthe1st",
         "laravel-eloquent-state-machines"
     ],
     "homepage": "https://github.com/SharonThe1st/laravel-eloquent-state-machiness",
