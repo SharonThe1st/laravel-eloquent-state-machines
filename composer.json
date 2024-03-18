@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "SharonThe1st\\LaravelEloquentStateMachines\\": "src"
+            "Asantibanez\\LaravelEloquentStateMachines\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "SharonThe1st\\LaravelEloquentStateMachines\\Tests\\": "tests"
+            "Asantibanez\\LaravelEloquentStateMachines\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -45,7 +45,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SharonThe1st\\LaravelEloquentStateMachines\\LaravelEloquentStateMachinesServiceProvider"
+                "Asantibanez\\LaravelEloquentStateMachines\\LaravelEloquentStateMachinesServiceProvider"
             ]
         }
     }
